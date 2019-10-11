@@ -51,8 +51,9 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-![Capture1](https://user-images.githubusercontent.com/56105862/66626007-cf261980-ec20-11e9-971d-ce99c0bea240.PNG)
-![Capture2](https://user-images.githubusercontent.com/56105862/66626008-cfbeb000-ec20-11e9-968e-28def08574d5.PNG)
+![Capture3](https://user-images.githubusercontent.com/56105862/66629374-c129c600-ec2b-11e9-82af-91b0991baf79.PNG)
+![Capture4](https://user-images.githubusercontent.com/56105862/66629375-c129c600-ec2b-11e9-9e0d-606fc53110e0.PNG)
+
 
 
 ## Upload
